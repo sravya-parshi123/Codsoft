@@ -12,7 +12,7 @@ During my internship at CodSoft, I have been given a series of challenging and e
 ## Tasks
 Below is the list of tasks I have completed as part of this internship:
 
-1. Task 1: [Landing Page]
+1. Task 1: [Landing Page](https://github.com/sravya-parshi123/Codsoft/tree/main/landing%20page)
     - Using HTML and Css, a simple landing page has been created which contains a navigation bar. It is uswful for any website which is created for general marketing 
     
 2. Task 2: [Portfolio](https://github.com/sravya-parshi123/Codsoft/tree/main/portfolio)
