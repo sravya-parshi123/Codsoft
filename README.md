@@ -15,8 +15,7 @@ Below is the list of tasks I have completed as part of this internship:
 1. Task 1: [Landing Page]
     - Using HTML and Css, a simple landing page has been created which contains a navigation bar. It is uswful for any website which is created for general marketing 
     
-
-2. Task 2: [Portfolio]
+2. Task 2: [Portfolio](https://github.com/sravya-parshi123/Codsoft/tree/main/portfolio)
    - It is a website which helps to know more information of an individual. Here you can download my resume as well.
 
 3. Task 3: [Calculator](https://github.com/sravya-parshi123/Codsoft/tree/main/calculator)
