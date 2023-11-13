@@ -19,7 +19,7 @@ Below is the list of tasks I have completed as part of this internship:
 2. Task 2: [Portfolio]
    - It is a website which helps to know more information of an individual. Here you can download my resume as well.
 
-3. Task 3: [Calculator]
+3. Task 3: [Calculator](https://github.com/sravya-parshi123/Codsoft/tree/main/calculator)
    - It is a calculatoe page where you cannget answers for simple mathematical expressions
 
 ## Thanking CodSoft
